@@ -1,8 +1,8 @@
-export const SUBTITLE = "A free clone of LinkTree"
-export const TITLE = "LinkTreeFreeClone"
-export const TAGLINE = "Make your own LinkTree page for free"
+export const SUBTITLE = "Explore my web tools, side projects and experiments — all in one place."
+export const TITLE = "Aldane Apps"
+//export const TAGLINE = ""
 
 // Contacts
 export const contact = "Keep in touch"
-export const phone = "+33600000000"
-export const email = "contact@yoandev.co"
+//export const phone = "+33600000000"
+export const email = "contact@aldane.net"

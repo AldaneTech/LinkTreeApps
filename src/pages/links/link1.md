@@ -1,5 +1,5 @@
 ---
-title: Twitter
-emoji: 🐦
-href: https://twitter.com/yOyO38
+title: Portfolio
+emoji: 💼
+href: https://aldane.net/
 ---

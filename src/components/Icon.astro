@@ -48,8 +48,8 @@ const { icon, url } = Astro.props;
     }
     {
         icon === "github" && (
-            <div>
-                <a href={url}>
+            <div class="inline-block transition-transform duration-300 ease-in-out transform hover:scale-110">
+                <a href={url} target="_blank">
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
                         viewBox="0 0 496 512"
@@ -128,8 +128,8 @@ const { icon, url } = Astro.props;
 
     {
         icon === "linkedin" && (
-            <div>
-                <a href={url}>
+            <div class="inline-block transition-transform duration-300 ease-in-out transform hover:scale-110">
+                <a href={url} target="_blank">
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
                         viewBox="0 0 448 512"
@@ -368,8 +368,8 @@ const { icon, url } = Astro.props;
 
     {
         icon === "twitter" && (
-            <div>
-                <a href={url}>
+            <div class="inline-block transition-transform duration-300 ease-in-out transform hover:scale-110">                
+                <a href={url} target="_blank" >
                     <svg
                         xmlns="http://www.w3.org/2000/svg"
                         viewBox="0 0 512 512"

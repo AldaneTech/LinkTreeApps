@@ -1,7 +1,5 @@
 # LinkTree Free Clone
 
-[![Playwright Tests](https://github.com/yoanbernabeu/LinkTreeFreeClone/actions/workflows/playwright.yml/badge.svg)](https://github.com/yoanbernabeu/LinkTreeFreeClone/actions/workflows/playwright.yml) [![Netlify Status](https://api.netlify.com/api/v1/badges/3e928715-44c6-4439-864e-6a346f699c07/deploy-status)](https://app.netlify.com/sites/linktreefreeclone/deploys)
-
 ![screenshoot](readme.png)
 
 LinkTree Free Clone is a free clone of LinkTree, a popular link aggregator for social media. 
@@ -12,7 +10,7 @@ Feel free to use it as a template for your own projects.
 
 ## 👀 Demo
 
-You can see a demo of the project at [https://linktreefreeclone.yoandev.co/](https://linktreefreeclone.yoandev.co/)
+You can see a demo of the project at [https://apps.aldane.net/](https://apps.aldane.net/)
 
 ## 🚀 Quick start
 
@@ -63,7 +61,7 @@ You can see a demo of the project at [https://linktreefreeclone.yoandev.co/](htt
     ```md
     ---
     icon: linkedin
-    url: https://linkedin.com/in/yoan-bernabeu
+    url: https://linkedin.com/in/
 
     ---
     ```

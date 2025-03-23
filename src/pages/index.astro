@@ -8,9 +8,7 @@ import Contact from "../components/Contact.astro";
 import { 
     SUBTITLE, 
     TITLE, 
-    TAGLINE,
     contact,
-    phone,
     email
 } from "../config";
 
@@ -20,7 +18,7 @@ const links = await Astro.glob("./links/*.md");
 
 <Layout title={TITLE + " - " + SUBTITLE}>
 	
-    <Header subtitle={SUBTITLE} title={TITLE} tagline={TAGLINE} />
+    <Header subtitle={SUBTITLE} title={TITLE} />
 
     <section>
         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
@@ -42,13 +40,11 @@ const links = await Astro.glob("./links/*.md");
 
     <Contact
         contact={contact}
-        phone={phone}
         email={email}
     />
 
 	<Footer
 		title={TITLE}
-		tagline={TAGLINE}
 	/>
 
 </Layout>
