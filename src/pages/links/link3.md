@@ -1,5 +1,5 @@
 ---
-title: Cash Balance API
-emoji: 📡
-href: https://api.finzbal.com/cash-balance/swagger-ui/index.html
+title: Cash Balance APP
+emoji: 🪙
+href: https://cashbalance.aldane.net/
 ---
